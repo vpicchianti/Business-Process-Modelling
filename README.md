@@ -25,6 +25,7 @@ scegliere se iniziare un nuovo percorso di apprendimento.
 </br>
 </br>
 </br>
+
 Questa repository contiene:
 - Il file `.bpmn` con la modellazione dello scenario
 - I file `.pnml` che contengono le reti di Petri dei processi 
