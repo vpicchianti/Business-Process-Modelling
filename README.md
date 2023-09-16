@@ -22,3 +22,11 @@ descritto sopra), oppure l’allievo può decidere di concludere il corso. Se il
 corso viene terminato, il cliente informa la scuola e il processo si conclude.
 Modificare i processi in modo che al termine del corso l’allievo possa
 scegliere se iniziare un nuovo percorso di apprendimento.
+</br>
+</br>
+</br>
+Questa repository contiene:
+- Il file `.bpmn` con la modellazione dello scenario
+- I file `.pnml` che contengono le reti di Petri dei processi 
+- Il file `.pdf` contenente il report, il quale si propone di riassumere le strategie usate per la modellazione e per le analisi
+- Altri file contenenti snippet di analisi semantiche
